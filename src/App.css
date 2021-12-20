@@ -1,0 +1,19 @@
+.app-container {
+    padding: 20px;
+}
+
+.app-aside {
+    float: left;
+    width: 200px;
+}
+
+.app-main {
+  padding-left: 200px;
+}
+
+.button {
+    margin-left: 15px;
+    display: inline-block;
+    padding: 2px 15px;
+    border: 1px solid #333 ;
+}
